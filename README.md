@@ -6,7 +6,7 @@ site for personal pruporses
 
 
 
-For navbar i used this video for development
+For navbar i used this video for help
 https://www.youtube.com/watch?v=2DVkNvVcQAU
 
 💅
